@@ -19,9 +19,9 @@ Team members will all contribute evenly across front-end and back-end during dev
 ## WireFrame
 
 ### Login Page
-![1](./screenshots/Screenshot 2020-12-28 at 11.42.44 AM.png)
-### Register page
-![2](./wireframes/CreateAccount.png)
+![1](./screenshots/login.png)
+### Customer Dashboard
+![2](./screenshots/custDash.png)
 ### Vehicle Home page
 ![3](./wireframes/SelectVehicle.png)
 ### Add a vehicle
