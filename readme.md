@@ -8,9 +8,9 @@ This is a project aiming to be a platform for vehicles repair and maintenance fo
 
 ## Team Break-Down
 
-Wong Kin Ken
-Khairul Syazwan
-Dave Li
+- Wong Kin Ken
+- Khairul Syazwan
+- Dave Li
 
 ## TechStack
 
@@ -30,7 +30,7 @@ Dave Li
 ### Appointment Page
 ![4](./screenshots/Appointment.png)
 ### Confirmed Appointment
-![5](./screenshots/confAppointment.png)
+![5](./screenshots/confApp.png)
 ### Service Record for Vehicle
 ![6](./screenshots/serviceRecord.png)
 
