@@ -1,4 +1,4 @@
-# Project 3 - WorkShop buddy
+# WorkShop Buddy
 
 ## Link & Description
 
